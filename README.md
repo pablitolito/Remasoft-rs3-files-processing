@@ -1,6 +1,8 @@
 # Remasoft-rs3-files-processing
 Set of four scripts (A1, A2, A3 and A4) for processing Remasoft *.rs3 files.
 
+![imagen](https://github.com/user-attachments/assets/53becace-4867-41e3-9446-099b4d38cd9f)
+
 
 ## A1.get_NRM-Components_fromRemasoft_v2024.py
 
